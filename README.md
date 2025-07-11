@@ -50,7 +50,7 @@ LockPadding_px   := 30   ; Dead zone in pixels from each edge
 - **`LockPadding_px`**: Adjust the size of the "dead zone" from the screen edges.
 - **`F11::ExitApp()`**: Change `F11` to any other key to set a new exit hotkey.
 
-For more advanced automation, such as running the script on Windows startup, please refer to the [**Steam Guide**](URL_К_ВАШЕМУ_СТИМ_РУКОВОДСТВУ).
+For more advanced automation, such as running the script on Windows startup, please refer to the [**Steam Guide**](URL_К_ВАШЕМУ_СТИМ_РУКОВОДСТВУ)
 
 ## About & Support
 
